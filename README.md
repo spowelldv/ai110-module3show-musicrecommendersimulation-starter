@@ -92,7 +92,12 @@ Use this section to document the experiments you ran. For example:
 
 I tried a few different fake listeners in the main script, then ran the same pop style listener again but with the genre points turned down and the energy part turned up. That was just to see if the list shuffled toward louder neighbors. I have not folded tempo or valence into the score yet.
 
-Next I need to drop a few terminal screenshots into the repo and link them here like normal markdown images.
+Here are the screenshots from running python -m src.main.
+
+![Chill lofi desk session](docs/screenshots/chill-lofi-desk-session.png)
+![Deep intense rock](docs/screenshots/deep-intense-rockj.png)
+![Edge case moody](docs/screenshots/edge-case-moody.png)
+![Experiment halve genre](docs/screenshots/experiment-halve-genre.png)
 
 ---
 
